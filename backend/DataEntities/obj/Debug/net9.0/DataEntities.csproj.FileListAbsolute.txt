@@ -1,0 +1,35 @@
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/DataEntities/bin/Debug/net9.0/DataEntities.deps.json
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/DataEntities/bin/Debug/net9.0/DataEntities.dll
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/DataEntities/bin/Debug/net9.0/DataEntities.pdb
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/DataEntities/obj/Debug/net9.0/DataEntities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/DataEntities/obj/Debug/net9.0/DataEntities.AssemblyInfoInputs.cache
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/DataEntities/obj/Debug/net9.0/DataEntities.AssemblyInfo.cs
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/DataEntities/obj/Debug/net9.0/DataEntities.csproj.CoreCompileInputs.cache
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/DataEntities/obj/Debug/net9.0/DataEntities.sourcelink.json
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/DataEntities/obj/Debug/net9.0/DataEntities.dll
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/DataEntities/obj/Debug/net9.0/refint/DataEntities.dll
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/DataEntities/obj/Debug/net9.0/DataEntities.pdb
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/DataEntities/obj/Debug/net9.0/ref/DataEntities.dll
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/backend/DataEntities/bin/Debug/net9.0/DataEntities.deps.json
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/backend/DataEntities/bin/Debug/net9.0/DataEntities.dll
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/backend/DataEntities/bin/Debug/net9.0/DataEntities.pdb
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/backend/DataEntities/obj/Debug/net9.0/DataEntities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/backend/DataEntities/obj/Debug/net9.0/DataEntities.AssemblyInfoInputs.cache
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/backend/DataEntities/obj/Debug/net9.0/DataEntities.AssemblyInfo.cs
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/backend/DataEntities/obj/Debug/net9.0/DataEntities.csproj.CoreCompileInputs.cache
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/backend/DataEntities/obj/Debug/net9.0/DataEntities.sourcelink.json
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/backend/DataEntities/obj/Debug/net9.0/DataEntities.dll
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/backend/DataEntities/obj/Debug/net9.0/refint/DataEntities.dll
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/backend/DataEntities/obj/Debug/net9.0/DataEntities.pdb
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/backend/DataEntities/obj/Debug/net9.0/ref/DataEntities.dll
+C:\Users\User\Downloads\lms\Nuevo curso\reto practico 02\docker_kubernetes_demo\backend\DataEntities\obj\Debug\net9.0\DataEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\lms\Nuevo curso\reto practico 02\docker_kubernetes_demo\backend\DataEntities\obj\Debug\net9.0\DataEntities.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\lms\Nuevo curso\reto practico 02\docker_kubernetes_demo\backend\DataEntities\obj\Debug\net9.0\DataEntities.AssemblyInfo.cs
+C:\Users\User\Downloads\lms\Nuevo curso\reto practico 02\docker_kubernetes_demo\backend\DataEntities\obj\Debug\net9.0\DataEntities.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\lms\Nuevo curso\reto practico 02\docker_kubernetes_demo\backend\DataEntities\obj\Debug\net9.0\DataEntities.dll
+C:\Users\User\Downloads\lms\Nuevo curso\reto practico 02\docker_kubernetes_demo\backend\DataEntities\obj\Debug\net9.0\refint\DataEntities.dll
+C:\Users\User\Downloads\lms\Nuevo curso\reto practico 02\docker_kubernetes_demo\backend\DataEntities\obj\Debug\net9.0\DataEntities.pdb
+C:\Users\User\Downloads\lms\Nuevo curso\reto practico 02\docker_kubernetes_demo\backend\DataEntities\bin\Debug\net9.0\DataEntities.deps.json
+C:\Users\User\Downloads\lms\Nuevo curso\reto practico 02\docker_kubernetes_demo\backend\DataEntities\bin\Debug\net9.0\DataEntities.dll
+C:\Users\User\Downloads\lms\Nuevo curso\reto practico 02\docker_kubernetes_demo\backend\DataEntities\bin\Debug\net9.0\DataEntities.pdb
+C:\Users\User\Downloads\lms\Nuevo curso\reto practico 02\docker_kubernetes_demo\backend\DataEntities\obj\Debug\net9.0\ref\DataEntities.dll

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ActiveDebugProfile>Container (Dockerfile)</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\User\Downloads\lms\Nuevo curso\reto practico 02\docker_kubernetes_demo\frontend\Store\Properties\PublishProfiles\registry.hub.docker.com_fzamora91.pubxml</NameOfLastUsedPublishProfile>
+  </PropertyGroup>
+</Project>

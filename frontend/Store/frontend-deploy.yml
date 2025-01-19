@@ -1,0 +1,38 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: storefrontend
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: storefrontend
+    spec:
+      containers:
+      - name: storefrontend
+        image: fzamora91/frontend:latest
+        ports:
+        - containerPort: 8080
+        env:
+        - name: ASPNETCORE_URLS
+          value: http://*:8080
+        - name: ProductEndpoint
+          value: http://productsbackend:8080
+  selector:
+    matchLabels:
+      app: storefrontend
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: storefrontend
+spec:
+  type: NodePort
+  ports:
+  - port: 8080
+    targetPort: 8080
+    nodePort: 32000
+  selector:
+    app: storefrontend

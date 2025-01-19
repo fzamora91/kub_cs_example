@@ -1,0 +1,12 @@
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/DataEntities/bin/Debug/net8.0/DataEntities.deps.json
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/DataEntities/bin/Debug/net8.0/DataEntities.dll
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/DataEntities/bin/Debug/net8.0/DataEntities.pdb
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/DataEntities/obj/Debug/net8.0/DataEntities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/DataEntities/obj/Debug/net8.0/DataEntities.AssemblyInfoInputs.cache
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/DataEntities/obj/Debug/net8.0/DataEntities.AssemblyInfo.cs
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/DataEntities/obj/Debug/net8.0/DataEntities.csproj.CoreCompileInputs.cache
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/DataEntities/obj/Debug/net8.0/DataEntities.sourcelink.json
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/DataEntities/obj/Debug/net8.0/DataEntities.dll
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/DataEntities/obj/Debug/net8.0/refint/DataEntities.dll
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/DataEntities/obj/Debug/net8.0/DataEntities.pdb
+/Users/wilbert/Documents/Cursos/Master C#/docker-examples/mslearn-dotnet-cloudnative/dotnet-docker/DataEntities/obj/Debug/net8.0/ref/DataEntities.dll
